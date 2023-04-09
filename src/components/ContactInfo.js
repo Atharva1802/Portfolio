@@ -1,6 +1,7 @@
 import { useInView } from "react-intersection-observer";
 import { motion } from "framer-motion";
 
+
 const ContactInfo = ({ name, email, location }) => {
   const [ref, inView] = useInView({
     threshold: 0,
