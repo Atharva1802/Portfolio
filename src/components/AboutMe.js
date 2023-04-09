@@ -1,9 +1,9 @@
-import aboutMeImg from "../images/me.png";
+import aboutMeImg from "../images/ab.jpg";
 import { motion } from "framer-motion";
 import SocialIcons from "../components/SocialIcons";
 import { useInView } from "react-intersection-observer";
 import { useState, useEffect } from "react";
-import resume from "../pages/about/Resume.pdf";
+import resume from "../pages/about/Resume.pdf"
 
 const AboutMe = ({ name, email, location, availability, brand }) => {   // Prop Sampling throughout the page  
   const [ref, inView] = useInView({
