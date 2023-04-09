@@ -1,0 +1,25 @@
+/* --- MOBILE STYLES --- */
+
+.landing .name {
+  font-size: 48px;
+}
+.landing .description {
+  font-size: 22px;
+}
+
+.landingImage {
+  right: 0px;
+}
+
+/* .landing .socialIcons {
+  display: none;
+} */
+
+.landing .socialIcons {
+  display: flex;
+  position: absolute;
+  left: 50px;
+  bottom: 20px;
+}
+
+
