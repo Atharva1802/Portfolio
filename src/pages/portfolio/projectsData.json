@@ -22,7 +22,7 @@
   {
     "title": "React TO-DO app",
 "image": "./projectImages/To-do.png",
-    "technologies": "JS | Node | Bootstrap | OOP | TTD",
+    "technologies": "React + Vite | SCSS",
     "description": "This is a simple to-do list application built using React and Vite. Users can add tasks to a list, mark tasks as complete, and remove tasks from the list. Additionally, the application features accent color changing and light and dark mode functionalities for a more customizable experience.",
     "github": "https://github.com/Atharva1802/To-do-app-React",
     "deployed": "https://to-do-app-react-eight.vercel.app/",
@@ -44,7 +44,7 @@
     "title": "CSS Trickies",
     "image": "./projectImages/CSS.png",
     "description": "This repo has some cool CSS tricks, tips and elements I've configured and personalized! Do check this out! .",
-    "technologies": "React | Framer | CSS | Bootstrap | Node",
+    "technologies": "HTML | CSS | Javascript",
     "deployed": "https://github.com/Atharva1802/CSS-trickies",
     "github": "https://github.com/Atharva1802/CSS-trickies",
     "bgcolor": "#ffcc33",
