@@ -1,5 +1,15 @@
 [
   {
+    "title": "ClimateXCapital: Startup Funding Insights",
+    "image": "./projectImages/Dashboard.png",
+    "description": "An interactive Power BI dashboard created for ClimateXCapital, analyzing startup funding trends in climate tech. It features geographic funding distribution, sector-wise competitor benchmarking, and company-level drill-throughs, providing actionable insights for investors.",
+    "technologies": "Power BI | DAX | Excel",
+    "github": "",
+    "deployed": "https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Funding-across-Climate-Tech-Space/m-p/4599844#M14075",
+    "bgcolor": "#4caf50",
+    "id": "6"
+  },
+  {
     "title": "TMDB Movie",
     "image": "./projectImages/TMDB-movie.png",
     "description": "This is a web application for browsing movies built using React and styled with SCSS. It allows users to search for movies, view details about individual movies, and save their favorite movies to a watchlist. The app includes various reusable components such as a button, footer, header, hero slider, input, modal, movie card, movie grid, and movie list, all of which are designed with responsive web design principles in mind.",
