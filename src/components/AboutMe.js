@@ -21,7 +21,7 @@ const AboutMe = ({ name, email, location, availability, brand }) => {   // Prop 
     setDownloading(true);
     const link = document.createElement("a");
     link.href = resume;
-    link.download = "Resume.pdf";
+    link.download = "B2024013_Goa Institute of Management.pdf";
     link.onload = () => {
       link.remove();
       setDownloading(false);
